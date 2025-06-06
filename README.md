@@ -6,7 +6,7 @@
 
 ---
 
-##Acknowledgement
+## Acknowledgement
 The starting point for this app was the code in the following paper for the interactive plot (Bell et al. 2024): https://doi.org/10.1016/j.socscimed.2024.116955
 The code provided with this paper can also be used to generate the pred2 file which the app uses to generate the plots.
 
