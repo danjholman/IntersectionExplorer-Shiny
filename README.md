@@ -6,6 +6,11 @@
 
 ---
 
+## Live Demo
+
+You can try the app online here:  
+[IntersectionExplorer on shinyapps.io](https://danielholman.shinyapps.io/app_v5/)
+
 ## Overview
 
 IntersectionExplorer is an R/Shiny application that displays predicted SF-12 Physical Component Summary (PCS) scores over age, stratified by intersectional categories (generation, ethnicity, sex, NS-SEC).
