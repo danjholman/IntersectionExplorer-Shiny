@@ -1,8 +1,7 @@
-# ──────────────────────────────────────────────────────────────────────────────
-# app.R
-# When no categories are selected, show only faint gray lines for all intersections.
-# Otherwise, overlay selected colored lines. Panels beneath with All/None links.
-# ──────────────────────────────────────────────────────────────────────────────
+# IntersectionExplorer Shiny App
+# Author: Daniel Holman (daniel.holman@sheffield.ac.uk)
+# Created: June 2025
+# This code may be shared and adapted under the MIT license.
 
 library(shiny)
 library(ggplot2)
