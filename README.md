@@ -6,6 +6,11 @@
 
 ---
 
+##Acknowledgement
+The starting point for this app was the code in the following paper for the interactive plot (Bell et al. 2024): https://doi.org/10.1016/j.socscimed.2024.116955
+The code provided with this paper can also be used to generate the pred2 file which the app uses to generate the plots.
+
+
 ## Live Demo
 
 You can try the app online here:  
@@ -34,9 +39,10 @@ When filters are active, the selected intersection lines are overlaid in color.
 - Let users “favorite” particular intersections so they’re always visible
 - Add a statistics panel to summarize selected strata
 - Show raw intersection counts on hover
+- Extent to cross-sectional and other types of models
 
 ## Instructions
-To be added
+To be added - see above - use the code here to generate your own pred2 file: https://doi.org/10.1016/j.socscimed.2024.116955
 
 ## Contributing
 Feel free to open issues or pull requests if you find bugs or want to add features (e.g. improved color palettes, performance optimizations, etc.).
