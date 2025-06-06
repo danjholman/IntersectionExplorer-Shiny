@@ -14,13 +14,6 @@ Users can toggle which strata to include via four panels (“Generation,” “E
 
 When filters are active, the selected intersection lines are overlaid in color.
 
-## Potential Future Features
-
-- Allow users to upload their own data files
-- Let users “favorite” particular intersections so they’re always visible
-- Add a statistics panel to summarize selected strata
-- Show raw intersection counts on hover
-
 ## Features
 
 - **Fixed axes.** The x-axis (age) and y-axis (PCS score) remain constant for easy comparison.
@@ -29,6 +22,13 @@ When filters are active, the selected intersection lines are overlaid in color.
 - **Tooltip.** Hovering over a colored line shows “Generation,” “Intersection,” and “Age.”
 - **Custom upload.** Upload your own CSV with the same structure to replace the default data.
 - **Minimal dependencies.** Only uses Shiny, ggplot2, plotly, dplyr, and haven.
+
+## Potential Future Features
+
+- Allow users to upload their own data files
+- Let users “favorite” particular intersections so they’re always visible
+- Add a statistics panel to summarize selected strata
+- Show raw intersection counts on hover
 
 ## Instructions
 To be added
